@@ -10,6 +10,7 @@
 
 # Github
 [TABTestKit](https://github.com/theappbusiness/TABTestKit)  
-[SBTUITestTunnel](https://github.com/Subito-it/SBTUITestTunnel)
+[SBTUITestTunnel](https://github.com/Subito-it/SBTUITestTunnel)  
+[KIF iOS Integration Testing Framework](https://github.com/kif-framework/KIF)
 
 # Youtube
